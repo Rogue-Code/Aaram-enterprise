@@ -196,6 +196,83 @@
 </section>
 <!-- //top categories -->	
 
+
+<!-- tabs -->
+<section class="middile-sec py-5" id="tabs">
+	<div class="container py-md-5">
+		<div class="row">
+			<div class="col-lg-12 middile-inner-con">
+				<div class="tab-main mx-auto">
+
+					<input id="tab1" type="radio" name="tabs" checked>
+					<label for="tab1"> Soft Furniture</label>
+
+					<input id="tab2" type="radio" name="tabs">
+					<label for="tab2"> Kitchen Cabinet</label>
+
+					<input id="tab3" type="radio" name="tabs">
+					<label for="tab3"> Three Seater Sofa</label>
+					
+					<input id="tab4" type="radio" name="tabs">
+					<label for="tab4"> Wall Design</label>
+
+					<section id="content1">
+						<div class="row">
+							<div class="col-md-4">
+								<img src="images/soft.jpg" class="img-fluid" alt="" />
+							</div>
+							<div class="col-md-8 mt-md-0 mt-4">
+								<h5 class="mb-3 text-capitalize">The personality and lifestyle of a homeowner is reflected to a large extent in the interior design and décor of the home. Soft furnishings play an important role in interiors.</h5>	
+								<p>Vivamus eget est in odio tempor interdum. Mauris maximus fermentum arcu, ac finibus ante. Sed mattis risus at ipsum elementum, sed auctor ut turpis cursus. Vivamus eget est in odio tempor interdum. Mauris max fermentum arcu, ac finibus ante. Sed mattis risus.</p>
+							</div>
+						</div>
+					</section>
+
+					<section id="content2">
+						<div class="row">
+							<div class="col-md-8">
+								<h5 class="mb-3 text-capitalize">Kitchen cabinets are the built-in furniture installed in many kitchens for storage of food, cooking equipment, and often silverware and dishes for table service. </h5>
+								<p>Mauris max fermentum arcu, ac finibus ante Vivamus eget est in odio sed tempor interdum. Mauris maximus fermentum arcu, ac finibus ante. Sed mattis risus at ipsum elementum, ut auctor turpis cursus ipsum dolor. Vivamus eget est in odio tempor interdum.</p>
+							</div>
+							<div class="col-md-4 mt-md-0 mt-4">
+								<img src="images/kitchen.jpg" class="img-fluid" alt="" />
+							</div>
+						</div>
+					</section>
+
+					<section id="content3">
+						<div class="row">
+							<div class="col-md-4">
+								<img src="images/sofa.jpg" class="img-fluid" alt="" />
+							</div>
+							<div class="col-md-8 mt-md-0 mt-4">
+								<h5 class="mb-3 text-capitalize">The best decor for your living room are 3 Seater Sofas so choose wisely according to your home requirements. Explore our latest sofa designs. </h5>
+								<p>Aac finibus ante. Sed mattis risus at ipsum Vivamus eget est in odio tempor interdumet sed. Mauris maximus fermentum arcu, ac finibus ante. Sed mattis risus at ipsum elementum, ut auctor turpis cursus. Mauris maximus fermentum arcu, ac finibus ante lorem ipsum.</p>
+							</div>
+						</div>
+					</section>
+					
+					<section id="content4">
+						<div class="row">
+							<div class="col-md-8">
+								<h5 class="mb-3 text-capitalize">wooden walls are a desirable, but not always economical, option. Keep the warmth and glow of wood inside your home. </h5>
+								<p>Mauris max fermentum arcu, ac finibus ante Vivamus eget est in odio sed tempor interdum. Mauris maximus fermentum arcu, ac finibus ante. Sed mattis risus at ipsum elementum, ut auctor turpis cursus ipsum dolor. Vivamus eget est in odio tempor interdum.</p>
+							</div>
+							<div class="col-md-4 mt-md-0 mt-4">
+								<img src="images/wall.jpg" class="img-fluid" alt="" />
+							</div>
+						</div>
+					</section>
+
+				</div>
+			</div>
+			<div class="col-lg-6 about-img mt-lg-0 mt-4">
+			</div>
+		</div>
+	</div>
+</section>
+<!--//tabs -->
+
 <!-- Maps -->
 <!-- about-->
 <section class="wthree-row py-5" id="about">
