@@ -1,0 +1,7 @@
+1.How to seperate header, index and footer?
+--https://stackoverflow.com/a/27631199/9707880
+
+2.How to add read more and read less button? (index.php)
+--https://www.w3schools.com/howto/howto_js_read_more.asp
+
+
