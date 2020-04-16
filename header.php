@@ -13,7 +13,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="keywords" content=" Aaram Enterprise is a home fashion and home decorator located in surat, gujarat
 , Jaipur,maharashtra. Wholesale Dealers of Coirrlene-Mattress, Pillow and Foam and Crown - Mattress, Pillow and Foam" />
 
-    <script>
+   <!--  <script>
         addEventListener("load", function () {
             setTimeout(hideURLbar, 0);
         }, false);
@@ -21,7 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         function hideURLbar() {
             window.scrollTo(0, 1);
         }
-    </script>
+    </script> -->
 	
 	<!-- css files -->
     <link href="css/bootstrap.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
@@ -30,10 +30,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<!-- //css files -->
 	
 	<link href="css/css_slider.css" type="text/css" rel="stylesheet" media="all">
-
+	<!-- jQuery CDN -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<!-- google fonts -->
 	<link href="//fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&amp;subset=latin-ext" rel="stylesheet">
-	<!-- //google fonts -->
+	
+	<!-- Title Bar Icon -->
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 	
 </head>
 <body>
@@ -45,6 +48,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div id="logo">
 				<h1> <a href="index.html"><span></span>AARAM ENTERPRISE</a></h1>
 			</div>
+			<!--
 			<div class="search-form mx-md-auto">
 				<div class="n-right-w3ls">
 					<form action="#" method="post" class="newsletter">
@@ -56,21 +60,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="forms mt-md-0 mt-2">
 				<a href="login.html" class="btn"><span class="fa fa-user-circle-o"></span> Sign In</a>
 				<a href="register.html" class="btn"><span class="fa fa-pencil-square-o"></span> Create Account</a>
-			</div>
+			</div> 
+			-->
 		</div>
-		<nav class="text-center">
-			<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
-			<input type="checkbox" id="drop" />
-			<ul class="menu">
-				<li class="mr-lg-4 mr-2 active"><a href="index.html">Home</a></li>
-				<li class="mr-lg-4 mr-2"><a href="about.html">About Us</a></li>
-				<li class="mr-lg-4 mr-2"><a href="services.html">Services</a></li>
-				<li class="mr-lg-4 mr-2"><a href="categories.html">Categories</a></li>
-				<li class="mr-lg-4 mr-2"><a href="blog.html">Blog</a></li>
-				<li class=""><a href="contact.html">Contact</a></li>
-			</ul>
-		</nav>
-		<!-- //nav -->
-	</div>
-</header>
-<!-- //header -->
+		

@@ -1,21 +1,5 @@
 <?php include 'header.php' ?>
 
-<nav class="text-center">
-			<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
-			<input type="checkbox" id="drop" />
-			<ul class="menu">
-				<li class="mr-lg-4 mr-2 active"><a href="index.php">Home</a></li>
-				<li class="mr-lg-4 mr-2"><a href="about.php">About Us</a></li>
-				<!-- <li class="mr-lg-4 mr-2"><a href="services.html">Services</a></li> -->
-				<li class="mr-lg-4 mr-2"><a href="categories.php">Categories</a></li>
-				<!-- <li class="mr-lg-4 mr-2"><a href="blog.html">Blog</a></li>
-				 --><li class=""><a href="contact.php">Contact</a></li>
-			</ul>
-		</nav>
-		<!-- //nav -->
-	</div>
-</header>
-<!-- //header -->
 
 <!-- banner -->
 <section class="banner_w3lspvt">
@@ -32,7 +16,7 @@
 							<div class="w3layouts-banner-info text-center">
 								<h3 class="text-wh">Sleep has never been too precious before Aaram</h3>
 								<p class="text-li mx-auto mt-2">Sleep deprivation is a modern-day disease. According to one estimate, 93 percent of working class in India is deprived of adequate sleep due to stress and intrusion of gadgets in their lives..</p>
-								<a href="categories.php" class="button-style mt-4">Explore More</a>
+								<a href="about.html" class="button-style mt-4">Explore More</a>
 							</div>
 						</div>
 					</div>
@@ -43,9 +27,10 @@
 					<div class="overlay">
 						<div class="container">
 							<div class="w3layouts-banner-info text-center">
-								<h3 class="text-wh">Quality starts with an absolute sense of mission</h3>
-								<p class="text-li mx-auto mt-2">Knowing what we know about the benefits of deep, restorative sleep, we will help as many people as possible choose to invest in a quality mattress.</p>
-								<a href="categories.php" class="button-style mt-4">Explore More</a>
+								<h3 class="text-wh">We Are the best designers of Interior Furniture</h3>
+								<p class="text-li mx-auto mt-2">Ut enim ad minim quis nostrud exerci sed do eiusmod tempor incididunt ut
+									labore et dolore magna aliqua nostrud exerci sed.</p>
+								<a href="about.html" class="button-style mt-4">Explore More</a>
 							</div>
 						</div>
 					</div>
@@ -56,10 +41,10 @@
 					<div class="overlay">
 						<div class="container">
 							<div class="w3layouts-banner-info text-center">
-								<h3 class="text-wh">Mattresses matter.<br> Don’t they?</h3>
-								<p class="text-li mx-auto mt-2">Going through the menace of back pain, the problem could be with your mattress.
-								AARAM ENTERPRISES, excels in taking care of the full Body Relaxation Needs by providing you the right mattress.</p>
-								<a href="categories.php" class="button-style mt-4">Explore More</a>
+								<h3 class="text-wh">We Are the best designers of Interior Furniture</h3>
+								<p class="text-li mx-auto mt-2">Ut enim ad minim quis nostrud exerci sed do eiusmod tempor incididunt ut
+									labore et dolore magna aliqua nostrud exerci sed.</p>
+								<a href="about.html" class="button-style mt-4">Explore More</a>
 							</div>
 						</div>
 					</div>
@@ -70,9 +55,10 @@
 					<div class="overlay">
 						<div class="container">
 							<div class="w3layouts-banner-info text-center">
-								<h3 class="text-wh">What happens when you move at night?</h3>
-								<p class="text-li mx-auto mt-2"> The mattress moves with you. What happens when the mattress moves? It takes some time to settle. Until it does, you’re not falling back to sleep. We at AARAM provide you with mattress that takes care of all these intricate minorities to give you that comfort during sleep.</p>
-								<a href="categories.php" class="button-style mt-4">Explore More</a>
+								<h3 class="text-wh">We Are the best designers of Interior Furniture</h3>
+								<p class="text-li mx-auto mt-2">Ut enim ad minim quis nostrud exerci sed do eiusmod tempor incididunt ut
+									labore et dolore magna aliqua nostrud exerci sed.</p>
+								<a href="about.html" class="button-style mt-4">Explore More</a>
 							</div>
 						</div>
 					</div>
@@ -103,7 +89,7 @@
 						<div class="grid-layout">
 							<span class="fa fa-building mb-sm-4 mb-2" aria-hidden="true"></span>
 							<h5 class="card-title mb-sm-3 mb-2">Experience</h5>
-							<p class="card-text" style="text-transform:capitalize; ">22 years of experience in state of Rajasthan and Delhi
+							<p class="card-text" style="text-transform:capitalize; text-align: justify;">22 years of experience in state of Rajasthan and Delhi
 							and spreading wings in the state of Gujarat and Mumbai since 3+ years
 							<!--and more.--></p>
 						</div>
@@ -114,7 +100,7 @@
 						<div class="grid-layout">
 							<span class="fa fa-handshake-o mb-sm-4 mb-2" aria-hidden="true"></span>
 							<h5 class="card-title mb-sm-3 mb-2">Efficiency</h5>
-							<p class="card-text" style="text-transform:capitalize; ">Known in the market for the best Premium mattress that stands for their high quality products and long life and quality maintenance of the same.</p>
+							<p class="card-text" style="text-transform:capitalize; text-align: justify;">Known in the market for the best Premium mattress that stands for their high quality products and long life and quality maintenance of the same.</p>
 						</div>
 					</div>
 				</div>
@@ -123,7 +109,7 @@
 						<div class="grid-layout">
 							<span class="fa fa-align-left mb-sm-4 mb-2" aria-hidden="true"></span>
 							<h5 class="card-title mb-sm-3 mb-2">Consistency</h5>
-							<p class="card-text" style="text-transform:capitalize;">Communicates directly to the customer in need and available at all locations for resolving all types of
+							<p class="card-text" style="text-transform:capitalize; text-align: justify;">Communicates directly to the customer in need and available at all locations for resolving all types of
 							requirements.</p>
 						</div>
 					</div>
@@ -150,7 +136,7 @@
 				<h4>years of experience</h4>
 			</div>
 			<div class="col-lg-4 col-sm-6 mt-lg-0 mt-4 about-right2">
-				<img src="images/founders/ba-1.jpeg" class="img-fluid" alt="" />
+				<img src="images/specialization.jpg" class="img-fluid" alt="" />
 			</div>
 		</div>
 	</div>
@@ -163,26 +149,25 @@
 		<div class="d-flex view">
 			<h3 class="heading mb-5"> Top Categories </h3>
 			<div class="ml-auto">
-				<a href="categories.php">View All</a>
+				<a href="categories.html">View All</a>
 			</div>
 		</div>
 		<div class="row news-grids">
-
 			<div class="col-lg-4 col-sm-6 newsgrid1">
-				<img src="images/mattress/dr.dang/dang.jpg" alt="news image" class="img-fluid">
+				<img src="images/living-room.jpg" alt="news image" class="img-fluid">
 				<h4 class="mt-4">Dr.Dang</h4>
 				<p class="mt-3"> </p>
 				<!--<p class="mt-3">For the first time in India. </p>-->
 				<b>Unique features</b><br/>
 				<ul>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Front-Side Soft</li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Back-Side Orthopedic Mattress</li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> 3D MATTRESS</li>
+					<li>Front-Side Soft</li>
+					<li>Back-Side Orthopedic Mattress</li>
+					<li>3D MATTRESS</li>
 				</ul>
 					
 				<b>Specifications</b><br/>
-				<span class="dots">...</span>
-				<span class="more">
+				<span id="dots">...</span>
+				<span id="more" style="display:none;">
 				<ul>
 					<li>Bottom Turkish Staple cotton fiber (felt) </li>
 					<li>In center rebounded foam</li>
@@ -197,12 +182,11 @@
 				</ul>
 				
 				</span>
-				
-				<button class="read">Read More</button>
+				</ul>
+				<button onclick="readMore()" id="newsgrid1Btn">Read More</button>
 			</div>
-
 			<div class="col-lg-4 col-sm-6 mt-sm-0 mt-5 newsgrid2">
-				<img src="images/mattress/dr.ortho/ortho.png" alt="news image" class="img-fluid">
+				<img src="images/dining-room.jpg" alt="news image" class="img-fluid">
 				<h4 class=" mt-4">Dr. Ortho Sleep</h4>
 				<p class="mt-3"> </p>
 				<!--These mattresses are carefully crafted with excellent workmanship using
@@ -210,14 +194,14 @@
 				</p>-->
 				<b>Unique features</b><br/>
 				<ul>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> COVERED WITH KNITTED / TWILL COTTON QUILTED COVER BOTH SIDES.</li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> BOTH SIDE USE MATTRESS</li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Hello, healthy spine!- ORTHOPEDICALLY ADVISED  </li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Elegant design, Durability, Tear resistance</li>
+					<li>COVERED WITH KNITTED / TWILL COTTON QUILTED COVER BOTH SIDES.</li>
+					<li>BOTH SIDE USE MATTRESS</li>
+					<li>Hello, healthy spine!- ORTHOPEDICALLY ADVISED  </li>
+					<li>Elegant design, Durability, Tear resistance</li>
 				</ul>
 				<b>Specifications</b><br/>
-				<span class="dots">...</span>
-				<span class="more">
+				<span id="dots">...</span>
+				<span id="more" style="display:none;">
 				
 				<ul>
 					<li>Top Polyurethane Foam</li>
@@ -231,12 +215,11 @@
 				</ul>
 				
 				</span>
-				
-				<button class="read">Read More</button>
+				</ul>
+				<button onclick="readMore()" id="newsgrid1Btn">Read More</button>
 			</div>
-
 			<div class="col-lg-4 col-sm-6 newsgrid3 mt-lg-0 mt-4">
-				<img src="images/mattress/kohinoor-mattress/kohinoor.jpg" alt="news image" class="img-fluid">
+				<img src="images/bedrooom.jpg" alt="news image" class="img-fluid">
 				<h4 class=" mt-4">Kohinoor</h4>
 				<p class="mt-3"> </p>
 				<!--<p> Acknowledged for elegant and attractive craftsmanship, the Kohinoor Mattress is
@@ -244,14 +227,14 @@
 						durability, smooth finish, attractive look and colorfastness. Accessible in varied patterns, designs, sizes and color combinations, the provided mattress can be acquired from us at market-leading rates				</p>-->
 				<b>Unique features</b><br/>
 				<ul>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Relaxes Muscular Stress</li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> All Seasons Comfort</li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Motion Isolation </li>
-					<li><i class="fa fa-hand-o-right" aria-hidden="true"></i> Reduced Allergens</li>
+					<li>Relaxes Muscular Stress</li>
+					<li>All Seasons Comfort</li>
+					<li>Motion Isolation </li>
+					<li>Reduced Allergens</li>
 				</ul>
 				<b>Specifications</b><br/>
-				<span class="dots">...</span>
-				<span class="more">
+				<span id="dots">...</span>
+				<span id="more" style="display:none;">
 				
 				<ul>
 					<li>CLASS RE-BONDED Foam</li>
@@ -264,8 +247,8 @@
 					<li>11 Years</li>
 				</ul>
 				</span>
-				
-				<button class="read">Read More</button>
+				</ul>
+				<button onclick="readMore()" id="newsgrid1Btn">Read More</button>
 			</div>
 			<!--
 			<div class="col-lg-3 col-sm-6 newsgrid3 mt-lg-0 mt-4">
@@ -280,13 +263,10 @@
 <!-- //top categories -->	
 
 
-
-
-
 <!-- tabs -->
-<!-- <section class="middile-sec py-5" id="tabs">
+<section class="middile-sec py-5" id="tabs">
 	<div class="container py-md-5">
- -->		<!-- <div class="row">
+		<div class="row">
 			<div class="col-lg-12 middile-inner-con">
 				<div class="tab-main mx-auto">
 
@@ -351,18 +331,17 @@
 					</section>
 
 				</div>
-			</div> -->
-		<!-- 	<div class="col-lg-6 about-img mt-lg-0 mt-4">
+			</div>
+			<div class="col-lg-6 about-img mt-lg-0 mt-4">
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 <!--//tabs -->
 
 <!-- Maps -->
-
 <!-- about-->
-<!-- <section class="wthree-row py-5" id="about">
+<section class="wthree-row py-5" id="about">
 	<div class="container py-lg-5">
 		<div class="row about-main">
 			<div class="col-lg-5 about-text-grid text-left pr-lg-5">
@@ -370,14 +349,13 @@
 					<h3 class="main-title-w3pvt text-capitalize">Our Mission is to design the best interior around</h3>
 				</div>
 				<hr>
-				<p class="mt-3">Aaram Enterprises Provides State-Of-The-Art Sleep Solutions Promoting Good Health And Serenity In Our Daily Lives. Our Innovative Range Of Products Underlines Our Focus On Not Just Sleep But Quality Sleep.<br>Aaram Enterprises help the consumers figure out the quality of their sleep and help them to makes changes according to the preferences of the customer.</p>
+				<p class="mt-3">Vestibulum feugiat tortor vitae diam euismod, ut et interdum nisi fermentum. Pellentesque sed sodales nunc.
+				Vestibulum laoreet erat nisi, sit amet ultrices augue lobortis sed. Curabitur et tortor ac diam sed efficitur dapibus in vitae
+				dui donec aliquet.</p>
 
 				<a href="#more" class="text-capitalize serv_link btn bg-theme1 scroll mt-4">view more</a>
 			</div>
 
-			<div class="col-lg-7 col-sm-12 about-right mt-lg-0 mt-4">
-				<iframe width="650" height="600" frameborder="0" src="https://widgets.scribblemaps.com/sm/?d&z&l&gc&af&mc&lat=36.879620605027014&lng=-40.78125&vz=15&type=hybrid&ti&s&width=550&height=400&id=eUY43_hfQK" style="border:0; max-width: 100%;" allowfullscreen allow="geolocation" loading="lazy"></iframe>
-			</div> -->
 <!-- 
 			<div class="col-lg-3 col-sm-6 about-right mt-lg-0 mt-4">
 				<img src="images/india.svg" class="img-fluid" alt="" />
@@ -386,13 +364,19 @@
 				<img src="images/a1.jpg" class="img-fluid" alt="" />
 			</div>
  -->
-	<!-- 		<div class="col-lg-7 col-sm-12 mt-7"> -->
-			
-	<!-- 		</div>
+			<div class="col-lg-7 col-sm-12 about-right mt-7">
+				<div class="map-image">
+					<img src="images/india.svg" class="img-fluid" alt="" />
+				</div>
+				
+				<div class="map-marker">
+					<img src="images/marker.svg">
+				</div>
+				
+			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 <!-- //about -->
-
 
 <?php include 'footer.php' ?>

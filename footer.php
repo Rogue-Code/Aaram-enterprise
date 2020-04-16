@@ -147,6 +147,7 @@
 					<a href="http://www.roguecode.in" style="text-decoration: underline; color: #f3b303;"> Rogue Code.</a>
 				</p>
 			</div>
+			<!--
 			<div class="col-md-4 mt-md-0 mt-4">
 				<div class="subscribe-form">
 					<form action="#" method="post" class="newsletter">
@@ -154,7 +155,7 @@
 						<button class="form-control btn" value=""><span class="fa fa-long-arrow-right"></span></button>
 					</form>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </section>
@@ -165,9 +166,28 @@
 <!-- //move top icon -->
 
 <!--scripts  start here -->
-	<script type="text/javascript" src="index.js"></script>	
+	<!-- <script type="text/javascript" src="index.js">	</script>	 -->
 
+<!-- jQuery Read More and Read Less script -->
+	<script>
+		
+		$(document).ready(function(){
+			$(".read").click(function(){
+				$(this).prev().toggle();
+				$(this).siblings('.dots').toggle();
 
+				if($(this).text()=='Read More'){
+					$(this).text('Read Less');
+				}
+
+				else{
+					$(this).text('Read More');
+				}
+
+			});
+		});
+
+	</script>
 
 <!-- scripts end here -->
 </body>
