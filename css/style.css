@@ -411,7 +411,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top {
-    background: url(../images/crown-2.jpg) no-repeat center;
+    background: url('../images/crown-3.jpg') no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -420,7 +420,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top1 {
-    background: url(../images/crown-1.jpg) no-repeat center;
+    background: url('../images/crown-1.jpg') no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -429,7 +429,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top2 {
-    background: url(../images/3.jpg) no-repeat center;
+    background: url('../images/crown-2.jpg') no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -438,7 +438,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .banner-top3 {
-    background: url(../images/4.jpg) no-repeat center;
+    background: url('../images/crown-4.jpg') no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -528,19 +528,6 @@ h3.main-title-w3pvt {
     padding: 8px;
 }
 */
-.map-image {
-    position: relative;
-    z-index: 1;
-    background: #fff;
-    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, .3);
-    padding: 8px;
-}
-
-.map-marker{
-    position: absolute;
-}
-
-
 .border-pos-wthree {
 	position: absolute;
 	width: 90%;
@@ -663,7 +650,7 @@ h3.title-w3 {
 
 /*-- what we do --*/
 .what-we-do {
-    background: url(../images/soft-bed.jpg) no-repeat center;
+    background: url('../images/why-us.jpg') no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -836,7 +823,8 @@ section#tabs {
 .news-grids button {
     
 }
-#newsgrids1Btn {
+
+.more {
     display: none;
 }
 

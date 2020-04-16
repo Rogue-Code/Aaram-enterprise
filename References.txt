@@ -4,6 +4,8 @@
 2.How to add read more and read less button? (index.php)
 --https://www.w3schools.com/howto/howto_js_read_more.asp
 
-Changes made by Prianca
+3.How to add read more and read less to multiple div's at the same time
+--https://www.youtube.com/watch?v=uzSkExQtPkg
 
-
+4. XAMPP won't update content immediately
+--https://stackoverflow.com/questions/12683417/localhost-wont-immediately-update
